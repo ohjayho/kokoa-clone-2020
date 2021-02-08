@@ -1,0 +1,19 @@
+.minidot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+}
+
+.nav__minidot {
+  top: -12px;
+  left: 30px;
+  width: 7px;
+  height: 7px;
+}
+
+.cog__minidot {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+}
